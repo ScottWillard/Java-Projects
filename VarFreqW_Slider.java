@@ -1,5 +1,3 @@
-//package example.simplesine;
-
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import java.nio.ByteBuffer;
@@ -16,14 +14,12 @@ public class VarFreqW_Slider extends JFrame {
     
     //Launch the app
     public static void main(String[] args) {
-        EventQueue.invokeLater(new Runnable() {
-            public void run() {
-                try {
-                    VarFreqW_Slider frame = new VarFreqW_Slider();
-                    frame.setVisible(true);
-                } catch (Exception e) {
-                    e.printStackTrace();
-                }
+        EventQueue.invokeLater(() -> {
+            try {
+                VarFreqW_Slider frame = new VarFreqW_Slider();
+                frame.setVisible(true);
+            } catch (Exception e) {
+                e.printStackTrace();
             }
         });
     }
