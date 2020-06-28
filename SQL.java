@@ -1,3 +1,17 @@
+
+/*
+1, "________ is the physical aspect of the computer that can be seen", "Hardware", "Software", "Operating system", "Application program", "a"
+2, "__________ is the brain of a computer", "Hardware", "CPU", "Memory", "Disk", "b"
+3, "The speed of CPU is measured in __________", "megabytes", "gigabytes", "megahertz", "gigahertz", "cd"
+4, "Why do computers use zeros and ones?", "because combinations of zeros and ones can represent any numbers and characters", "because digital devices have two stable states and it is natural to use one state for 0 and the other for 1", "because binary numbers are simplest", "because binary numbers are the bases upon which all other number systems are built", "b"
+5, "One byte has ________ bits", "4", "8", "12", "16", "b"
+6, "A 3.5-inch floppy can hold up to _________ bytes", "0.5 MB", "1.44 MB", "10 MB", "100 MB", "b"
+7, "A regular CD-ROM can hold up to _________ bytes", "a. 100 MB", "700 MB", "1 GB", "10 GB", "b"
+8, "____________ is a device to connect a computer to a local area network (LAN)", "regular modem", "DSL", "Cable modem", "NIC", "d"
+9, "____________ are instructions to the computer", "Hardware", "Software", "Programs", "Keyboards", "bc"
+
+*/
+
 //Import required packages
 import java.io.BufferedReader;
 import java.io.File;
