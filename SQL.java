@@ -1,5 +1,5 @@
-
 /*
+
 1, "________ is the physical aspect of the computer that can be seen", "Hardware", "Software", "Operating system", "Application program", "a"
 2, "__________ is the brain of a computer", "Hardware", "CPU", "Memory", "Disk", "b"
 3, "The speed of CPU is measured in __________", "megabytes", "gigabytes", "megahertz", "gigahertz", "cd"
