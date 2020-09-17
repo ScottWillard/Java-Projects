@@ -314,4 +314,4 @@ public class AlgorithmAnimation extends JApplet {
             }
         }//Paint Component
     } //BubbleSortPanel
-}//Assignment11
+}//AlgorithmAnimation
