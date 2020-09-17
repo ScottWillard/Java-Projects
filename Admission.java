@@ -27,4 +27,4 @@ public class Admission {
             counter = in.nextInt();
         }//while
     }//main
-}//Class
+}//class
